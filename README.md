@@ -28,7 +28,7 @@
 
 - **[flet](https://pypi.org/project/customtkinter)** ~= 0.19.0
 - **[GlobalKit](https://pypi.org/project/GlobalKit)** >= 1.6
-- **[GlobalKit](https://pypi.org/project/pyperclip)** ~= 1.8.2
+- **[pyperclip](https://pypi.org/project/pyperclip)** ~= 1.8.2
 
 See the full requirements in **[requirements.txt](requirements.txt)**.
 
